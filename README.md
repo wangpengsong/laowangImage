@@ -4,7 +4,6 @@
 class ft_send_image_stu_attend:
     pic_path='/work/'
     pic_bg='bg.png'
-
     text = '''　　扒拉扒拉扒拉吧把'''
 
     @bug_robot
